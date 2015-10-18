@@ -1,0 +1,6 @@
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\bin\Debug\MorgSimulator.exe.config
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\bin\Debug\MorgSimulator.exe
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\bin\Debug\MorgSimulator.pdb
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\obj\Debug\MorgSimulator.exe
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\obj\Debug\MorgSimulator.pdb
+C:\Users\paul ivanovs\makeOITHappy\CST276\MorgSimulator\obj\Debug\MorgSimulator.csprojResolveAssemblyReference.cache
